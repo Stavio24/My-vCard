@@ -1,0 +1,14 @@
+{
+  "nume": "Viorel STAICU",
+  "titlu": "Senior Internal Auditor",
+  "descriere": " ",
+  "telefon": "+40734463516",
+  "email": "staicuvio@gmail.com",
+  "foto": "https://i.postimg.cc/qRjyhJnq/foto-2SV.jpg",
+  "website": " ",
+  "linkuri": [
+    { "eticheta": "LinkedIn", "url": "https://www.linkedin.com/in/viorel-staicu-b2a45a4/" },
+    { "eticheta": "Portofoliu / Site", "url": "https://asia-project.staicuvio.chatgpt.site/case-studies?lang=ro" },
+    { "eticheta": "WhatsApp", "url": "https://wa.me/40734463516" }
+  ]
+}
