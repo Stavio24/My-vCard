@@ -1,2 +1,2 @@
 # My-vCard
-Mi virtual card visit.
+My virtual card visit.
